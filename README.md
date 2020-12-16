@@ -1,2 +1,1 @@
-# vidyarambham
-vidya rambham
+विद्यारंभं
